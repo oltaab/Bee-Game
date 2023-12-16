@@ -29,10 +29,9 @@ This project is a graphical game application developed in Java, featuring a main
 ## Usage
 - Use `W`, `A`, `S`, `D` or arrow keys to move the player on the board.
 - Observe the game statistics for player progress and game state.
-
 - Interact with the game menu for additional options.
 
-- <img width="569" alt="Screenshot 2023-12-16 at 14 38 06" src="https://github.com/oltaby/Yogi-Bear/assets/98267176/e0fd3ab4-c4fc-4d46-a9ea-ca476e3a4ced">
+<img width="569" alt="Screenshot 2023-12-16 at 14 38 06" src="https://github.com/oltaby/Yogi-Bear/assets/98267176/e0fd3ab4-c4fc-4d46-a9ea-ca476e3a4ced">
 <img width="569" alt="Screenshot 2023-12-16 at 14 38 31" src="https://github.com/oltaby/Yogi-Bear/assets/98267176/c2120519-7575-4cc2-abb6-e868bb951057">
 <img width="565" alt="Screenshot 2023-12-16 at 14 39 33" src="https://github.com/oltaby/Yogi-Bear/assets/98267176/30aaaf27-182b-4ce1-894e-622731065aad">
 
