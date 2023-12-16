@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yogi-bear">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/yogi_bear_jar/yogi-bear.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
