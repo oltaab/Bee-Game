@@ -1,4 +1,4 @@
-# Yogi-Bear README
+# Bee-Game README
 
 ## Overview
 This project is a graphical game application developed in Java, featuring a main window with game statistics and a game board. It involves player navigation, ranger movements, and collision detection, creating an interactive and dynamic gaming experience.
