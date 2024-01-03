@@ -35,8 +35,5 @@ This project is a graphical game application developed in Java, featuring a main
 <img width="569" alt="Screenshot 2023-12-16 at 14 38 31" src="https://github.com/oltaby/Yogi-Bear/assets/98267176/c2120519-7575-4cc2-abb6-e868bb951057">
 <img width="565" alt="Screenshot 2023-12-16 at 14 39 33" src="https://github.com/oltaby/Yogi-Bear/assets/98267176/30aaaf27-182b-4ce1-894e-622731065aad">
 
-## License
-This project is licensed under the [MIT License](LICENSE.md).
-
 
 
